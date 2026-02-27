@@ -114,8 +114,8 @@ Repeat for all samples.
 
 ## How to Clone the Repository
 
-git clone https://github.com/akawamleh/Comp383-Pipeline.git  
-cd Comp383-Pipeline  
+git clone https://github.com/akawamleh/Comp383-FinalPipeline.git  
+cd Comp383-FinalPipeline  
 
 ## How to Run
 
