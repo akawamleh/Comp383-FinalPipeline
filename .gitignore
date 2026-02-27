@@ -1,0 +1,9 @@
+data/raw/
+results/
+ref/
+blast_db/
+.snakemake/
+*.zip
+*.bam
+*.fastq
+
